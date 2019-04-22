@@ -1,0 +1,17 @@
+canvas {
+  border: 5px solid brown;
+  width: 99%;
+}
+h1{
+  font-family: sans-serif;
+  font-size: 40px;
+}
+
+body{
+  background-color: rgb(255, 187, 36);
+}
+
+footer{
+  position: relative;
+  color: red;
+}
